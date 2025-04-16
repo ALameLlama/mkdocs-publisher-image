@@ -1,3 +1,10 @@
+## v2.2.3 (2025-04-16)
+
+### 👷 CI/CD
+
+- fix semver not working for docker
+
+
 ## v2.2.2 (2025-04-16)
 
 ### 👷 CI/CD
